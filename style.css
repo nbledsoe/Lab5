@@ -19,6 +19,8 @@ strong {
 	font-size: 300%;
 }
 
-table {
-	text-align: center
+table.blocktext {
+	 margin-left: auto;
+    margin-right: auto;
+    width: 8em
 }
