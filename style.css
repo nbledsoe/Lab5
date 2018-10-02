@@ -20,7 +20,7 @@ strong {
 }
 
 table {
-	 height: -10em;
+	 height: 0em;
   display: flex;
   align-items: center;
   justify-content: center
