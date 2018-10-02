@@ -20,8 +20,8 @@ strong {
 }
 
 table {
-	 text-align: center
-	 min-height: 10em;
-    display: table-cell;
-    vertical-align: middle
+	 height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center
 }
